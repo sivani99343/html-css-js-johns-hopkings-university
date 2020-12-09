@@ -14,3 +14,10 @@ Module #3 Coding Assignment Solution
 code url: https://github.com/sivani99343/html-css-js-johns-hopkings-university/tree/main/module3_solutions
 
 Hosted url: https://sivani99343.github.io/html-css-js-johns-hopkings-university/module3_solutions/
+
+Module #4 Coding Assignment Solution
+
+code url: https://github.com/sivani99343/html-css-js-johns-hopkings-university/tree/main/module4_solutions
+
+Hosted url: https://sivani99343.github.io/html-css-js-johns-hopkings-university/module4_solutions/
+
