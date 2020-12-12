@@ -21,3 +21,8 @@ code url: https://github.com/sivani99343/html-css-js-johns-hopkings-university/t
 
 Hosted url: https://sivani99343.github.io/html-css-js-johns-hopkings-university/module4_solutions/
 
+Module #5 Coding Assignment Solution
+
+code url: https://github.com/sivani99343/html-css-js-johns-hopkings-university/tree/main/module5_solutions
+
+Hosted url: https://sivani99343.github.io/html-css-js-johns-hopkings-university/module5_solutions/
